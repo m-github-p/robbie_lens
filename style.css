@@ -1,0 +1,25 @@
+#logo {
+    /* Indiquez les propriétés CSS ici */
+}
+
+.grand-texte {
+    font-size: 30px;
+}
+
+.ma-classe {
+    color: #663399;
+}
+
+balise1 {
+    propriete1: valeur1;
+    propriete2: valeur2;
+    /* … */
+}
+
+h1,
+p {
+    /* J'en profite pour
+    ajouter un commentaire
+    sur plusieurs lignes */
+    color: blue;
+}
