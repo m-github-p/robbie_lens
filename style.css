@@ -22,4 +22,26 @@ p {
     ajouter un commentaire
     sur plusieurs lignes */
     color: blue;
+    font-size: 16px;
+}
+
+.elem1 {
+    font-size: 1em;
+}
+
+.elem2 {
+    font-size: 1.3em;
+}
+
+.elem3 {
+    font-size: 2em;
+    font-family: 'Roboto', sans-serif;
+}
+
+balise {
+    font-family: nom-police;
+}
+
+em {
+    font-style: normal;
 }
