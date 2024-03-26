@@ -45,3 +45,30 @@ balise {
 em {
     font-style: normal;
 }
+
+body {
+    background-color: black;
+    /* Le fond de la page sera noir */
+    color: white;
+    /* Le texte de la page sera blanc */
+    background: linear-gradient(90deg, #8360c3, #2ebf91);
+    /*color: purple;*/
+}
+
+body {
+    font-family: sans-serif;
+    margin: 0;
+    /* Vous ne connaissez pas encore cette propriété mais elle permet de s'assurer que nos éléments prennent bien toute la largeur de la page */
+}
+
+.banniere {
+    padding: 100px;
+    /* Vous ne connaissez pas encore cette propriété mais elle permet d'ajouter de l'espace dans notre élément*/
+    background-image: url('paysage.jpg');
+    background: url("paysage.jpg") cover center;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+}
